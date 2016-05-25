@@ -1,4 +1,4 @@
-# Experience API
+# Experience API LRS Testing Requirements
 ## Advanced Distributed Learning (ADL) Co-Laboratories
 
 >"Copyright 2013 Advanced Distributed Learning (ADL) Initiative, U.S. Department of Defense
